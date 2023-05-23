@@ -1,13 +1,17 @@
 # Acero
 
+Aspecto:
+
+<figure><img src="../../../.gitbook/assets/New Piskel (1).png" alt=""><figcaption></figcaption></figure>
+
 Receta:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Calidad: Poco Comun
 
 Recetas en las que se usa:
 
-{% content-ref url="../../armas/largo-alcanse/alabarda-de-la-realeza.md" %}
-[alabarda-de-la-realeza.md](../../armas/largo-alcanse/alabarda-de-la-realeza.md)
+{% content-ref url="../../armas-especiales/largo-alcance/alabarda-de-la-realeza.md" %}
+[alabarda-de-la-realeza.md](../../armas-especiales/largo-alcance/alabarda-de-la-realeza.md)
 {% endcontent-ref %}

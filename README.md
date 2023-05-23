@@ -1,7 +1,3 @@
----
-description: Distintas Categorías de items.
----
+# Locaciones
 
-# Items
-
-Actualizacion de contenido hasta 4/23/2023
+Lugares de interes
