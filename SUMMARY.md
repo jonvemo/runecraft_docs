@@ -12,6 +12,7 @@
 * [Items](items/README.md)
   * [Genericos](items/genericos/README.md)
     * [Bloques de Mineral](items/genericos/bloques-de-mineral/README.md)
+      * [Mena de safiro](items/genericos/bloques-de-mineral/mena-de-safiro.md)
       * [Mena Estaño](items/genericos/bloques-de-mineral/mena-estano.md)
     * [Materiales Crudos](items/genericos/materiales-crudos/README.md)
       * [Estaño Crudo](items/genericos/materiales-crudos/estano-crudo.md)
