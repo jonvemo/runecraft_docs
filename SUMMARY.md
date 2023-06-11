@@ -38,3 +38,5 @@
   * [Clases](mecanicas/clases.md)
   * [Profesiones](mecanicas/profesiones.md)
   * [Trabajos](mecanicas/trabajos.md)
+* [Enemigos](enemigos/README.md)
+  * [Zombie](enemigos/zombie.md)
