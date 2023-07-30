@@ -1,6 +1,6 @@
 # Alabarda de la Realeza
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Descripcion del item</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Descripcion del item</p></figcaption></figure>
 
 Receta:
 

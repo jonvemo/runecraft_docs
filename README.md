@@ -1,3 +1,2 @@
-# Locaciones
+# Tablas de Loot
 
-Lugares de interes
