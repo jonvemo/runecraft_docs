@@ -6,3 +6,7 @@
 
 * Matar Mineros
 * Próximamente Crafteo..
+
+## Uso en
+
+* [cofre-de-madera-mina.md](../../entidades/loot/cofres/cofre-de-madera-mina.md "mention")
