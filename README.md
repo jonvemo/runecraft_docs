@@ -21,7 +21,7 @@ Si estás buscando información específica sobre cómo mejorar tus habilidades,
 
 ¡Explora y descubre todo lo que necesitas saber para convertirte en un experto en el juego!
 
-[#mecanicas](./#mecanicas "mention")
+#### [Mecanicas](runecraft/mecanicas/)
 {% endtab %}
 
 {% tab title="Items" %}
@@ -45,11 +45,11 @@ Encuentra los complementos perfectos para mejorar tus habilidades y protegerte e
 
 Desbloquea secretos y accede a áreas restringidas con información detallada sobre llaves y su uso.
 
-#### [Recursos](items/recursos/)
+#### [Recursos](runecraft/items/recursos/)
 
 Aprende sobre los materiales y elementos esenciales que te ayudarán a forjar tu camino hacia la grandeza.
 
-#### [Items vanilla](items/genericos/vanilla/)
+#### [Items vanilla](runecraft/items/genericos/vanilla/)
 
 Explora la amplia gama de objetos estándar que el juego tiene para ofrecer. Estos items forman la base de tu aventura en el mundo de Runecraft y proporcionan las herramientas esenciales para tu viaje.
 
