@@ -1,3 +1,0 @@
-# Locaciones
-
-Lugares de interes
