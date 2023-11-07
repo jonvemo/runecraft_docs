@@ -24,7 +24,7 @@ Si estás buscando información específica sobre cómo mejorar tus habilidades,
 [#mecanicas](./#mecanicas "mention")
 {% endtab %}
 
-{% tab title="Enemigos" %}
+{% tab title="Items" %}
 Bienvenido a la sección de Items de la Wiki de la Comunidad Runecraft. Aquí encontrarás una extensa colección de información sobre una variedad de objetos que encontrarás en el mundo del juego.
 
 ### Tipos de Items
