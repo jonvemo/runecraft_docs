@@ -33,8 +33,8 @@ Mesa para poder fabricar tus mesas y sillas.
 * Acacia
 * Roble Oscuro
 * Manglar
-* Cerezo \[Requiere Paquete Experimental 1.20]
-* Bambú \[Requiere Paquete Experimental 1.20]
+* Cerezo&#x20;
+* Bambú
 * Cármesi
 * Deformado
 
