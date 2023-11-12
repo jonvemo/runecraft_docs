@@ -7,7 +7,7 @@
     * [Trabajos](mecanicas/trabajos.md)
     * [Dimensiones](readme/mecanicas/dimensiones.md)
     * [Bloques Decorativos](readme/mecanicas/bloques-decorativos.md)
-    * [Sillas Y mesas](readme/mecanicas/sillas-y-mesas.md)
+    * [Muebles y Sillas](readme/mecanicas/muebles-y-sillas.md)
   * [Items](items/README.md)
     * [Llaves](items/llaves/README.md)
       * [Llave de madera](items/llaves/llave-de-madera.md)

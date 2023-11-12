@@ -28,7 +28,9 @@ Descubre la versatilidad de cajones simples hasta estantes Eldritch que muestran
 ¡Añade un toque de estilo a tu mundo de Runecraft con estos bloques decorativos extraordinarios!
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Muebles y Sillas" %}
+## [muebles-y-sillas.md](../readme/mecanicas/muebles-y-sillas.md "mention")
 
+¡Bienvenido a la sección de Muebles y Sillas en la Wiki de la Comunidad Runecraft, dedicada a la artesanía y diseño de mobiliario excepcional! Explora las posibilidades creativas de mesas, sillas y tronos con nuestra amplia variedad de materiales, cada uno con su propio estilo único.
 {% endtab %}
 {% endtabs %}
