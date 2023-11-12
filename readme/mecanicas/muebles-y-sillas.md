@@ -76,12 +76,10 @@ Coloca las mesas y sillas simplemente haciendo clic derecho sobre el suelo.
 Para romper mesas:
 
 * Golpea la parte superior de la mesa hasta que se rompa (se rompe más fácilmente con hachas).
-* Los objetos caerán, incluido el mantel y la mesa misma.
 
 Para romper sillas/bancos:
 
 * Golpea la silla dos veces consecutivas en un corto intervalo para romperlas.
-* Los cojines caerán de las sillas en modo supervivencia, así como las sillas mismas.
 
 <figure><img src="https://cdn.discordapp.com/attachments/364995051564171267/1086748875483779102/sawmill_full.gif" alt=""><figcaption></figcaption></figure>
 
