@@ -15,7 +15,15 @@ layout:
 
 # Mecanicas
 
+Explora la diversidad de mecánicas que ofrece la Wiki de la Comunidad Runecraft. Desde clases y profesiones hasta trabajos, dimensiones, bloques, muebles y pieles animadas, esta categoría abarca una amplia variedad de aspectos del juego.
 
+* **Clases y Profesiones:** Descubre las distintas clases y profesiones disponibles, cada una con sus propias habilidades y características únicas.
+* **Trabajos:** Sumérgete en el mundo laboral del juego, aprende sobre diferentes trabajos y cómo afectan tu experiencia en Runecraft.
+* **Dimensiones:** Explora dimensiones únicas y descubre los secretos que cada una tiene para ofrecer.
+* **Bloques y Muebles:** Desde bloques decorativos hasta muebles elegantes, encuentra información detallada sobre cómo construir y decorar en el mundo de Runecraft.
+* **Pieles Animadas:** Dale vida a tu personaje con pieles animadas, aprende a utilizar el píxel de control y ajusta la duración para crear efectos visuales cautivadores.
+
+Sumérgete en la riqueza de información que ofrecemos en la categoría de Mecánicas y lleva tu experiencia en Runecraft al siguiente nivel.
 
 {% tabs %}
 {% tab title="Bloques Decorativos" %}
@@ -35,7 +43,7 @@ Descubre la versatilidad de cajones simples hasta estantes Eldritch que muestran
 {% endtab %}
 
 {% tab title="Skin Animadas" %}
-## [skins-animadas.md](../readme/mecanicas/skins-animadas.md "mention")
+## [skins-animadas.md](../runecraft/extras/texturepack/skins-animadas.md "mention")
 
 ¡Dale vida a tu personaje en el juego con pieles animadas! Utiliza el píxel de control, ajusta la duración y la interpolación para crear efectos visuales dinámicos. ¡Explora la creatividad y haz que tu piel destaque en el mundo del juego!
 {% endtab %}

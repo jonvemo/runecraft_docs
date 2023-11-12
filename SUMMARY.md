@@ -8,7 +8,7 @@
     * [Dimensiones](readme/mecanicas/dimensiones.md)
     * [Bloques Decorativos](readme/mecanicas/bloques-decorativos.md)
     * [Muebles y Sillas](readme/mecanicas/muebles-y-sillas.md)
-    * [Skins Animadas](readme/mecanicas/skins-animadas.md)
+    * [Skins Animadas](runecraft/extras/texturepack/skins-animadas.md)
   * [Items](items/README.md)
     * [Llaves](items/llaves/README.md)
       * [Llave de madera](items/llaves/llave-de-madera.md)
