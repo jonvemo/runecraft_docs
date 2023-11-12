@@ -32,7 +32,7 @@ _valida cualquier madera_
 
 Un bloque principalmente decorativo que mostrará varias texturas de polvo cuando la ranura más a la izquierda contenga un "objeto polvoriento". ¡Por qué no intentas descubrirlos todos!
 
-<figure><img src="../../.gitbook/assets/sprite_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sprite_0 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Caja
 
