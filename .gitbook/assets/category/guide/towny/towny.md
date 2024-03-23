@@ -3,7 +3,7 @@ description: >-
   Guía de uso de Towny; crea tu propia ciudad o se miembro de una
 ---
 
-## Towny
+# Towny
 
 Creditos
 
