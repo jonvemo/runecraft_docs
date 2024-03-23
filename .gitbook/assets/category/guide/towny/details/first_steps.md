@@ -55,7 +55,8 @@ description: >-
 
 ### Comandos de Towny
 
-Todos los comonados con prefix 'town'
+Todos los comandos con prefix 'town', pueden ser reducidos a sólo 't'
+
 <table>
 <!-- ! Caption no es Reconocido por GitBook -->
   <caption>Comandos</caption>
@@ -147,35 +148,53 @@ Todos los comonados con prefix 'town'
 
 ### Permisos Básico y cómo modificarlos
 
-Con el TOWN está recién creado, los permisos de cada habitante serán estándar. En un inicio los habitantes tendrán los cuatro permisos principales activados en todos los chunks que formen parte de tu TOWN, sin importar su rango o si algún chunk está disponible para comprar (para vivir allí, por ejemplo). Los cuatro permisos son:
+En un inicio los habitantes tendrán los cuatro permisos principales activados en todos los chunks que formen parte de su Town, sin importar su rango o si algún chunk está disponible para comprar. 
 
-Build ( Construir), Destroy (Destruir), Switch (Interactuar, o sacar y poner cosas de cofres, etc) como lo puede ser con puertas, botones, mesas de cartografía, pistones, shulkers, cofres , ItemUse (Usar tiems) como esquilar ovejas, reproducir animales, tirar pociones, huevos, perlas de ender, poner lava, etc. Todos los chunks se configuran individualmente.
+1. Build: Contruir
+2. Destroy: Destruir
+3. Switch: Interactuar con objetivos como, cofres y shulkers
+4. ItemUse: Usar items como las tijeras, perlas de ender
+ 
+{% hint style="info" %}
+**Info**: Todos los chunks se configuran individualmente.
+{% endhint %}
 
-Puedes chequear estos permisos con **/town**.
-
-Para modificarlos se pondrá:
-
-**/Plot set perm “categoría” Build/switch/destroy/itemuse** **on/off**
-
-En donde dice **“categoría**” podremos **resident** , que sería residente. y en donde dice **Build/switch/destroy/itemuse** deberemos colocar solo una de las cuatro opciones, al igual que **on** **off** , solo se debe elegir una. afirmativa (**on**) o negativa (**off**).
-
-\
-**Ejemplos:**
-
-**/Plot set perm resident Build on** : para que los residentes tengan permiso a construir en ese chunk.Más ejemplos aquí
-
-**/t set perm on/off**: Para sacar o poner permisos a TODAS las categorías en TODAS las areas. Comando habilitado para la TOWNY (no es necesario ponerlo chunk por chunk) y solo válido para alcaldes.
+Puedes usar el comando
+<table>
+  <thead>
+    <tr>
+      <th>Prefix</th>
+      <th>Argumento</th>
+      <th>Value</th>
+      <th>Detalles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/plot</td>
+      <td>set perm rol</td>
+      <td>on / off perm</td>
+      <td>La 'rol' es el tipo de habitante y 'perm' es el permiso que se desea conceder</td>
+    </tr>
+    <tr>
+      <td>/plot</td>
+      <td>set perm</td>
+      <td>on / off perm</td>
+      <td>Válido sólo para el Alcande</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Roles del Town
 
-**Resident:** (Residente) Personas que pertenecen a la ciudad.
+**Resident**: Personas que pertenecen a la ciudad.
 
-**Outsider**: (Extranjero) Persona que NO pertenece a la ciudad.
+**Outsider**: Personas que NO pertenecen a la ciudad.
 
-**Ally:** (Aliados) Personas dentro de una nation. (Nation es cuando dos Towns o más se unen para hacer una alianza)
+**Ally**: Personas dentro de una [nación](.gitbook/assets/category/guide/towny/details/nations.md).
 
-**Friends:** (Amigos). Esta categoría se usa POR PERSONA (no como el resto) y sirve para agregar personas a tus plots. 
+**Friends**: Esta categoría se usa POR PERSONA y sirve para agregar personas a tus plots. 
 
-{% hint style="danger" %}
-**Advertencia:** si le otorgas este permiso a un usuario, no tendrá permiso únicamente en el plot en el que estás parado. Tendrá permisos en TODAS tus plots (chunks)
+{% hint style="warning" %}
+**Advertencia:** concede permiso a toda la Town, no sólo a plot en la que estés parado
 {% endhint %}
