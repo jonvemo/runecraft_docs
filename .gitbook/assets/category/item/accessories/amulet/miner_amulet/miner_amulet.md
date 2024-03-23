@@ -7,7 +7,7 @@ coverY: 0
 ---
 ## Amuleto de Minero
 <figure>
-    <img src=".gitbook/assets/img/item/accessories/amulet/miner_amulet.png" alt="Amulet">
+    <img src="miner_amulet.png" alt="Amulet">
 </figure>
 
 ### Forma de obtención

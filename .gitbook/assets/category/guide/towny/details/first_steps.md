@@ -1,6 +1,6 @@
 ---
 description: >-
-  ​**Survival RPG** es la modalidad de nuestro servidor que se divide en Ciudades. Cada ciudad, es un Towny
+  ​Survival RPG es la modalidad de nuestro servidor que se divide en Ciudades. Cada ciudad, es un Towny
 
   En caso de que seas parte de un Towny, dependiendo el rango que tengas en la misma, tendrás acceso a más o a menos comandos. Los comandos de Town funcionan para todo tipo de Town, sus variantes dependen siempre de la cantidad de residentes que tenga
 ---
