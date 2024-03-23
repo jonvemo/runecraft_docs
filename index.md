@@ -9,7 +9,7 @@ Puedes ayudar con el marcado de la wiki.
 
 ¿Quieres ponerte en contacto con nosotros o estar al día de las novedades de nuestra wiki? ¿Quieres obtener más información o hablar con nuestro equipo de administración de la wiki? ¡Únete a nosotros en [discord ](https://discord.runecraft.me)aquí!
 
-### Pagina en español
+<span id="red">Texto de prueba</span>
 
 ## Categorias
 
@@ -62,8 +62,6 @@ Sumérgete en la riqueza de información sobre items que hemos preparado para ti
 
 {% tab title="Guias" %}
 En esta seccion encontraras guias para poder iniciar tu aventura si tienes algun amigo que tenga una guia util escribenos en un ticket y la agregaremos despues de pasar por verificaciones ;)
-
-<span id="red">Texto de prueba</span>
 
 [guias-para-aprender-a-jugar](readme/guias-para-aprender-a-jugar/ "mention")
 {% endtab %}
