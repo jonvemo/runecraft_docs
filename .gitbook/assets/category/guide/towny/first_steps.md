@@ -5,9 +5,9 @@ description: >-
 
 # Primeros Pasos con Towny
 
-1. **<a href="#comandos-town">Crear un Towny de cero</a>**
-2. **<a href="#permissions">Permisos básicos y cómo modificarlos</a>**
-3. **Categorías por Rol**
+1. **<a href="#town_commands">Crear un Towny de cero</a>**
+2. **<a href="#town_permissions">Permisos básicos y cómo modificarlos</a>**
+3. **<a href="#town_roles">Categorías por Rol</a>**
 
 ## Survival RPG
 
@@ -63,7 +63,7 @@ En caso de que seas parte de un Towny, dependiendo el rango que tengas en la mis
   </tbody>
 </table>
 
-<h3 id="comandos-town">Comandos de Towny</h3>
+<h3 id="town_commands">Comandos de Towny</h3>
 
 **Todos los comandos que sean “/town \[...]” pueden simplificarse con “ /t \[...] “ en su lugar.**
 
@@ -91,33 +91,37 @@ En caso de que seas parte de un Towny, dependiendo el rango que tengas en la mis
 
 **/town claim outpost**: claimea un outpost separado de tu ciudad
 
-<h3 id="permissions">Permisos Básico y cómo modificarlos</h3>
+<h3 id="town_permissions">Permisos Básico y cómo modificarlos</h3>
 
 Con el TOWN está recién creado, los permisos de cada habitante serán estándar. En un inicio los habitantes tendrán los cuatro permisos principales activados en todos los chunks que formen parte de tu TOWN, sin importar su rango o si algún chunk está disponible para comprar (para vivir allí, por ejemplo). Los cuatro permisos son:
 
 Build ( Construir), Destroy (Destruir), Switch (Interactuar, o sacar y poner cosas de cofres, etc) como lo puede ser con puertas, botones, mesas de cartografía, pistones, shulkers, cofres , ItemUse (Usar tiems) como esquilar ovejas, reproducir animales, tirar pociones, huevos, perlas de ender, poner lava, etc. Todos los chunks se configuran individualmente.
 
-Puedes chequear estos permisos con **/town**.&#x20;
+Puedes chequear estos permisos con **/town**.
 
 Para modificarlos se pondrá:
 
-**/Plot set perm “categoría” Build/switch/destroy/itemuse** **on/off**&#x20;
+**/Plot set perm “categoría” Build/switch/destroy/itemuse** **on/off**
 
-En donde dice **“categoría**” podremos **resident** , que sería residente. y en donde dice **Build/switch/destroy/itemuse** deberemos colocar solo una de las cuatro opciones, al igual que **on** **off** , solo se debe elegir una. afirmativa (**on**) o negativa (**off**).&#x20;
+En donde dice **“categoría**” podremos **resident** , que sería residente. y en donde dice **Build/switch/destroy/itemuse** deberemos colocar solo una de las cuatro opciones, al igual que **on** **off** , solo se debe elegir una. afirmativa (**on**) o negativa (**off**).
 
 \
-**Ejemplos:**&#x20;
+**Ejemplos:**
 
 **/Plot set perm resident Build on** : para que los residentes tengan permiso a construir en ese chunk.Más ejemplos aquí
 
 **/t set perm on/off**: Para sacar o poner permisos a TODAS las categorías en TODAS las areas. Comando habilitado para la TOWNY (no es necesario ponerlo chunk por chunk) y solo válido para alcaldes.
 
-#### **CATEGORÍAS DE PERSONAS** <a href="#categorias-de-personas" id="categorias-de-personas"></a>
+<h3 id="town_roles">Roles del Town</h3>
 
-**Resident:** (Residente) Personas que pertenecen a la ciudad.&#x20;
+**Resident:** (Residente) Personas que pertenecen a la ciudad.
 
-**Outsider**: (Extranjero) Persona que NO pertenece a la ciudad.&#x20;
+**Outsider**: (Extranjero) Persona que NO pertenece a la ciudad.
 
-**Ally:** (Aliados) Personas dentro de una nation. (Nation es cuando dos Towns o más se unen para hacer una alianza)&#x20;
+**Ally:** (Aliados) Personas dentro de una nation. (Nation es cuando dos Towns o más se unen para hacer una alianza)
 
-**Friends:** (Amigos). Esta categoría se usa POR PERSONA (no como el resto) y sirve para agregar personas a tus plots. **CUIDADO** si le otorgas este permiso a un usuario, no tendrá permiso únicamente en el plot en el que estás parado. Tendrá permisos en TODAS tus plots (chunks).​
+**Friends:** (Amigos). Esta categoría se usa POR PERSONA (no como el resto) y sirve para agregar personas a tus plots. 
+
+{% hint style="danger" %}
+**Advertencia:** si le otorgas este permiso a un usuario, no tendrá permiso únicamente en el plot en el que estás parado. Tendrá permisos en TODAS tus plots (chunks)
+{% endhint %}
