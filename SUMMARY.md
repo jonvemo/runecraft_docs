@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Runecraft](index.md)
-  * [Guía de Juego](.gitbook/assets/category/guide/towny/towny.md)
+  * [Guía de Juego](.gitbook/assets/category/guide/guide.md)
     * [Towny](.gitbook/assets/category/guide/towny/towny.md)
       * [Primeros Pasos](.gitbook/assets/category/guide/towny/details/first_steps.md)
       * [Chunks](.gitbook/assets/category/guide/towny/details/chunks.md)
