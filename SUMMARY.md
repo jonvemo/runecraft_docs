@@ -39,4 +39,4 @@
   * [Extras](.gitbook/assets/category/extra/extra.md)
     * [Kits](.gitbook/assets/category/extra/kits/kits.md)
     * [Loots](.gitbook/assets/category/extra/loot/loot.md)
-    * [Decoraciones](.gitbook/assets/category/extra/furnace/furnace.md)
+    * [Decoraciones](.gitbook/assets/category/extra/furniture/furniture.md)

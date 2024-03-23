@@ -3,7 +3,7 @@ description: >-
   A continuación tendrás el temario de todos los tutoriales y explicaciones que
   verás en esta guía.
 cover: >-
-    ./gitbook/assets/img/item/accessorie/amulet/0000_miner_amulet/miner_amulet.png
+    ./gitbook/assets/img/item/accessories/amulet/0000_miner_amulet/miner_amulet.png
 coverY: 0
 ---
 ## Amuleto de Minero
@@ -16,23 +16,33 @@ Se puede obtener de los [Cofre de Madera](/.gitbook/assets/category/extra/loot/c
     <thead>
         <tr>
             <th>Nivel</th>
-            <th colspan=2>Bonus</th>
-            <th colspan=2>Defensa</th>
+            <th>Bonus</th>
+            <th></th>
+            <th>Defensa</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3>5</td>
-        </tr>
-        <tr>
+            <td>5</td>
             <td>Regeneración</td>
             <td>3%</td>
             <td>Evasión</td>
             <td>0.5 ~ 5.5%</td>
         </tr>
         <tr>
+            <td></td>
             <td>Inteligencia</td>
             <td>1 ~ 5</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
