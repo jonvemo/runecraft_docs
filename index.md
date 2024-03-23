@@ -1,3 +1,4 @@
+<link rel="stylesheet" href=".gitbook/assets/css/index.css">
 # Runecraft 🇪🇸
 
 ## Bienvenido a la Wiki de la Comunidad Runecraft
@@ -66,3 +67,5 @@ En esta seccion encontraras guias para poder iniciar tu aventura si tienes algun
 [guias-para-aprender-a-jugar](readme/guias-para-aprender-a-jugar/ "mention")
 {% endtab %}
 {% endtabs %}
+
+<script type="module" src=".gitbook/assets/js/index.js"></script>
