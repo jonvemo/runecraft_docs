@@ -30,7 +30,7 @@ En caso de que seas parte de un Towny, dependiendo el rango que tengas en la mis
   <tbody>
     <tr>
       <td>Campametento</td>
-      <td>1</td>
+      <td class="text-center">1</td>
     </tr>
     <tr>
       <td>Asentamiento</td>
