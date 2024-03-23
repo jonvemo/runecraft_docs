@@ -1,2 +1,0 @@
-# Corona del Minero
-

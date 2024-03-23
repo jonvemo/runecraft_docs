@@ -9,8 +9,6 @@ Puedes ayudar con el marcado de la wiki.
 
 ¿Quieres ponerte en contacto con nosotros o estar al día de las novedades de nuestra wiki? ¿Quieres obtener más información o hablar con nuestro equipo de administración de la wiki? ¡Únete a nosotros en [discord ](https://discord.runecraft.me)aquí!
 
-<span id="red">Texto de prueba</span>
-
 ## Categorias
 
 {% tabs %}
