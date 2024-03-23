@@ -1,6 +1,4 @@
-
-
- # Table of contents
+# Table of contents
 
 * [Guía de Juego](./.gitbook/assets/category/guide/towny/towny.md)
   * [Towny](./.gitbook/assets/category/guide/towny/towny.md)
@@ -8,9 +6,10 @@
     * [Chunks](./.gitbook/assets/category/guide/towny/chunks.md)
     * [Permisos](./.gitbook/assets/category/guide/towny/roles.md)
     * [Nación](./.gitbook/assets/category/guide/towny/nations.md)
+* [Mecánicas]
   * [Trabajos](./.gitbook/assets/category/guide/job/job.md)
   * [Clases](./.gitbook/assets/category/guide/class/class.md)
-  * [Profesiones](./.gitbook/assets/category/guide/profesion.md)
+  * [Profesiones](./.gitbook/assets/cateSgory/guide/profesion.md)
   * [Monedas](./.gitbook/assets/category/guide/coin/coin.md)
   * [Dimensiones](./.gitbook/assets/category/guide/dimension/dimension.md)
   * [Skins Animadas](./.gitbook/assets/category/guide/skins/animated_skins.md)
@@ -29,14 +28,14 @@
     * [Cielo](./.gitbook/assets/category/item/mineral/sky/sky.md)
   * [Armas](./.gitbook/assets/category/item/weapon/weapon.md)
   * [LLaves](./.gitbook/assets/category/item/keys/keys.md)
-  * [NPC](./.gitbook/assets/category/npc/npc.md)
-    * [Lysa](./.gitbook/assets/category/npc/lysa/lysa.md)
-  * [Monstruos](./.gitbook/assets/category/monster/monster.md)
-    * [Zombie](./.gitbook/assets/category/monster/zombie/zombie.md)
-  * [Locaciones](./.gitbook/assets/category/location/location.md)
-    * [Spawn](./.gitbook/assets/category/location/spawn/spawn.md)
-    * [Mina](./.gitbook/assets/category/location/mine/mine.md)
-  * [Extras](./.gitbook/assets/category/extra/extra.md)
-    * [Kits](./.gitbook/assets/category/extra/kits/kits.md)
-    * [Loots](./.gitbook/assets/category/extra/loot/loot.md)
-    * [Decoraciones](./.gitbook/assets/category/extra/furnace/furnace.md)
+* [NPC](./.gitbook/assets/category/npc/npc.md)
+  * [Lysa](./.gitbook/assets/category/npc/lysa/lysa.md)
+* [Monstruos](./.gitbook/assets/category/monster/monster.md)
+  * [Zombie](./.gitbook/assets/category/monster/zombie/zombie.md)
+* [Locaciones](./.gitbook/assets/category/location/location.md)
+  * [Spawn](./.gitbook/assets/category/location/spawn/spawn.md)
+  * [Mina](./.gitbook/assets/category/location/mine/mine.md)
+* [Extras](./.gitbook/assets/category/extra/extra.md)
+  * [Kits](./.gitbook/assets/category/extra/kits/kits.md)
+  * [Loots](./.gitbook/assets/category/extra/loot/loot.md)
+  * [Decoraciones](./.gitbook/assets/category/extra/furnace/furnace.md)
