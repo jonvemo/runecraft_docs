@@ -1,9 +1,6 @@
 ---
 description: >-
   La Corona del Minero es un símbolo majestuoso y venerado entre las comunidades mineras. A diferencia del Amuleto del Minero, la Corona es un artefacto ceremonial, diseñado para honrar y reconocer los logros excepcionales en el ámbito de la minería
-cover: >-
-    /.gitbook\assets\img\item\accessories\ring\skull_ring.png
-coverY: 0
 ---
 [ TODO: Insert foto de Mina en Cover]: #
 

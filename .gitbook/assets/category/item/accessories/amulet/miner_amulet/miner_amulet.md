@@ -1,9 +1,6 @@
 ---
 description: >-
   El Amuleto del Minero es un objeto místico y venerado entre los buscadores de minerales y aquellos que trabajan en las profundidades de la tierra. Este amuleto está imbuido de la esencia de la tierra misma y se dice que lleva consigo la bendición de los ancestros mineros
-cover: >-
-    /.gitbook/assets/img/item/accessories/amulet/miner_amulet.png
-coverY: 0
 ---
 ## Amuleto de Minero
 
