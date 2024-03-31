@@ -1,13 +1,16 @@
 ---
 description: Recomensas de la caja de voto
 cover: >-
-    /.gitbook\assets\img\preview\vote_crate.png
+    /.gitbook/assets/img/preview/vote_crate.png
 coverY: 0
 ---
 
 ## Caja de Voto
 
-![Caja de Voto](/.gitbook\assets\img\preview\vote_crate.png)
+<figure>
+    <img src="/.gitbook/assets/img/preview/vote_crate.png" alt="">
+    <figcaption>Portal de Aventuras</figcaption>
+</figure>
 
 <table>
     <thead>

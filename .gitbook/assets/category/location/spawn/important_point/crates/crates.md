@@ -1,7 +1,7 @@
 ---
 description: Zona de crates
 cover: >-
-    /.gitbook\assets\img\preview\warp_crates.png
+    /.gitbook/assets/img/preview/warp_crates.png
 coverY: 0
 ---
 
@@ -9,4 +9,4 @@ coverY: 0
 
 * none
 * none
-* [Caja de Voto](/.gitbook\assets\category\location\spawn\important_point\crates\crate_vote.md)
+* [Caja de Voto](/.gitbook/assets/category/location/spawn/important_point/crates/crate_vote.md)
