@@ -5,6 +5,6 @@ description: >-
 
 ### Mina
 
-* [Spawn](/.gitbook\assets\category\location\spawn\spawn.md)
+* [Spawn](/.gitbook/assets/category/location/spawn/spawn.md)
     
-* [Mina/Primera Zona](/.gitbook\assets\category\location\mine\zone_one.md)
+* [Mina/Primera Zona](/.gitbook/assets/category/location/mine/zone_one.md)
