@@ -12,7 +12,7 @@ description: >-
 </figure>
 
 ### Forma de obtención
-* Se puede obtener de [wood_chest.md](../.gitbook/assets/category/extra/loot/chest/wood_chest.md) en [Mina](/.gitbook/assets/category/location/mine/mine.md)
+* Se puede obtener de [Cofre de Madera](/.gitbook/assets/category/extra/loot/chest/wood_chest.md) en [Mina](/.gitbook/assets/category/location/mine/mine.md)
 
 <table>
     <caption>Estadísticas</caption>
