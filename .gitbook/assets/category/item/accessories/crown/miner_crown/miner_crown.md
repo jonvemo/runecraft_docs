@@ -12,7 +12,8 @@ description: >-
 </figure>
 
 ### Forma de obtención
-* Se puede obtener de los [Cofre de Madera](/.gitbook/assets/category/extra/loot/chest/wood_chest/wood_chest.md) en [Mina](/.gitbook/assets/category/location/mine/mine.md)
+* Se puede obtener de los [wood_chest.md](../assets/category/extra/loot/chest/wood_chest/wood_chest.md "mention") en [Mina](/.gitbook/assets/category/location/mine/mine.md)
+* ## [rituales.md](../readme/mecanicas/rituales.md "mention")
 
 <table>
     <caption>Estadísticas</caption>
