@@ -11,8 +11,11 @@ coverY: 0
 
 ![Crown](.gitbook/assets/img/item/accessories/crown/miner_crown.png)
 
+fig1
 <figure><img src=".gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
+fig2
 <figure><img src="/.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
+fig3
 <figure><img src="../.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
 
 ### Forma de obtención
