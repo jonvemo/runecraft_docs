@@ -5,14 +5,14 @@ description: >-
 ## Cofre de Madera
 
 <figure>
-    <img src="/.gitbook\assets\img\item\chest\wood_chest.png" alt="">
+    <img src="/.gitbook/assets/img/item/chest/wood_chest.png" alt="">
     <figcaption>Cofre de Madera</figcaption>
 </figure>
 
-Requiere [Llave de Madera](.gitbook\assets\category\item\keys\keys.md)
+Requiere [Llave de Madera](/.gitbook/assets/category/item/keys/wood_key.md)
 
 ### Forma de obtención
 
-* Se encuentra en [Mina](.gitbook\assets\category\location\mine\mine.md)
+* Se encuentra en [Mina](/.gitbook/assets/category/location/mine/mine.md)
 
 (Loot)[#]

@@ -3,7 +3,7 @@
 ### Tierra
 
 <figure>
-    <img src="/.gitbook\assets\img\dimension\overworld.png" alt="">
+    <img src="/.gitbook/assets/img/dimension/overworld.png" alt="">
     <figcaption>Overworld</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ El Overworld es la dimensión principal en Minecraft, conocida por su diversidad
 ### Infierno
 
 <figure>
-    <img src="/.gitbook\assets\img\dimension\nether.png" alt="">
+    <img src="/.gitbook/assets/img/dimension/nether.png" alt="">
     <figcaption>Nether</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ El Nether es una dimensión que contiene océanos de lava y se considera el infr
 ### El Fin
 
 <figure>
-    <img src="/.gitbook\assets\img\dimension\end.png" alt="">
+    <img src="/.gitbook/assets/img/dimension/end.png" alt="">
     <figcaption>End</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ El End es una dimensión espacial con islas flotantes de piedra de End, accesibl
 ### El cielo
 
 <figure>
-    <img src="/.gitbook\assets\img\dimension\sky.png" alt="">
+    <img src="/.gitbook/assets/img/dimension/sky.png" alt="">
     <figcaption>Sky</figcaption>
 </figure>
 
@@ -92,4 +92,4 @@ Una nueva estructura: El Pueblo Celestial, una versión flotante de un pueblo no
 
 Dos nuevos avances: Uno otorgado al llegar a la dimensión y otro al explorar los 5 nuevos biomas.
 
-Un nuevo mineral: [Mineral del cielo](.gitbook\assets\category\item\mineral\sky\sky.md)
+Un nuevo mineral: [Mineral del cielo](.gitbook/assets/category/item/mineral/sky/sky.md)

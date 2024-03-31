@@ -29,6 +29,7 @@
       * [Cielo](.gitbook/assets/category/item/mineral/sky/sky.md)
     * [Armas](.gitbook/assets/category/item/weapon/weapon.md)
     * [LLaves](.gitbook/assets/category/item/keys/keys.md)
+      * [LLave de Madera](.gitbook/assets/category/item/keys/wood_key.md)
   * [NPC](.gitbook/assets/category/npc/npc.md)
     * [Lysa](.gitbook/assets/category/npc/lysa/lysa.md)
   * [Monstruos](.gitbook/assets/category/monster/monster.md)

@@ -2,7 +2,10 @@
 
 by GodLander
 
-![Skins Animadas](/.gitbook\assets\img\preview\animated_skin.png)
+<figure>
+    <img src="/.gitbook/assets/img/preview/animated_skin.png" alt="">
+    <figcaption>Ilustración del funcionamiento de la función Skin Animada</figcaption>
+</figure>
 
 ### Pieles Animadas
 
