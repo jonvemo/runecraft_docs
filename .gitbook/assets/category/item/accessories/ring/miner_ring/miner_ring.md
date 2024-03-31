@@ -7,7 +7,7 @@ description: >-
 ## Anillo del Minero
 
 <figure>
-    <img src="/.gitbook\assets\img\item\accessories\ring\miner_ring.png" alt="">
+    <img src="/.gitbook/assets/img/item/accessories/ring\miner_ring.png" alt="">
     <figcaption>Anillo del Minero</figcaption>
 </figure>
 
