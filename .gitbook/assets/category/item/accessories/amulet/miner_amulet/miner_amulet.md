@@ -2,13 +2,12 @@
 description: >-
   El Amuleto del Minero es un objeto místico y venerado entre los buscadores de minerales y aquellos que trabajan en las profundidades de la tierra. Este amuleto está imbuido de la esencia de la tierra misma y se dice que lleva consigo la bendición de los ancestros mineros
 cover: >-
-    ./gitbook/assets/img/item/accessories/amulet/0000_miner_amulet/miner_amulet.png
+    /.gitbook/assets/img/item/accessories/amulet/miner_amulet.png
 coverY: 0
 ---
 ## Amuleto de Minero
-<figure>
-    <img src="miner_amulet.png" alt="Amulet">
-</figure>
+
+![Amulet](/.gitbook/assets/img/item/accessories/amulet/miner_amulet.png)
 
 ### Forma de obtención
 * Se puede obtener de los [Cofre de Madera](.gitbook/assets/category/extra/loot/chest/wood_chest/wood_chest.md) en [Mina](.gitbook/assets/category/location/mine/mine.md)

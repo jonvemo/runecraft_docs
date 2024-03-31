@@ -146,7 +146,7 @@ Todos los comandos con prefix 'town', pueden ser reducidos a sólo 't'
 </table>
 
 
-### Permisos Básico y cómo modificarlos
+### Permisos Básicos y Cómo Modificarlos
 
 En un inicio los habitantes tendrán los cuatro permisos principales activados en todos los chunks que formen parte de su Town, sin importar su rango o si algún chunk está disponible para comprar. 
 
