@@ -19,7 +19,7 @@ Si estás buscando información específica sobre cómo mejorar tus habilidades,
 
 ¡Explora y descubre todo lo que necesitas saber para convertirte en un experto en el juego!
 
-[Mecánicas](.gitbook/assets/category/mechanical/mechanical.md)
+[Mecánicas](/.gitbook/assets/category/mechanical/mechanical.md)
 {% endtab %}
 
 {% tab title="Items" %}
@@ -27,7 +27,7 @@ Bienvenido a la sección de Items de la Wiki de la Comunidad Runecraft. Aquí en
 
 #### Tipos de Items
 
-[Items](.gitbook/assets/category/item/item.md)
+[Items](/.gitbook/assets/category/item/item.md)
 
 Descubre cómo crear tus propios objetos a través de la artesanía y aprovecha al máximo tus recursos.
 
@@ -35,15 +35,15 @@ Descubre cómo crear tus propios objetos a través de la artesanía y aprovecha 
 
 Sumérgete en el mundo de los calabozos y aprende sobre los tesoros y desafíos que te esperan en las profundidades.
 
-[Accesorios](.gitbook/assets/category/item/accessories/accessories.md)
+[Accesorios](/.gitbook/assets/category/item/accessories/accessories.md)
 
 Encuentra los complementos perfectos para mejorar tus habilidades y protegerte en la batalla.
 
-[LLaves](.gitbook/assets/category/item/keys/keys.md)
+[LLaves](/.gitbook/assets/category/item/keys/keys.md)
 
 Desbloquea secretos y accede a áreas restringidas con información detallada sobre llaves y su uso.
 
-[Minerales](.gitbook/assets/category/item/mineral/mineral.md)
+[Minerales](/.gitbook/assets/category/item/mineral/mineral.md)
 
 Aprende sobre los materiales y elementos esenciales que te ayudarán a forjar tu camino hacia la grandeza.
 
@@ -59,6 +59,6 @@ Sumérgete en la riqueza de información sobre items que hemos preparado para ti
 {% tab title="Guias" %}
 En esta seccion encontraras guias para poder iniciar tu aventura si tienes algun amigo que tenga una guia util escribenos en un ticket y la agregaremos despues de pasar por verificaciones ;)
 
-[Guías](.gitbook/assets/category/guide/guide.md)
+[Guías](/.gitbook/assets/category/guide/guide.md)
 {% endtab %}
 {% endtabs %}
