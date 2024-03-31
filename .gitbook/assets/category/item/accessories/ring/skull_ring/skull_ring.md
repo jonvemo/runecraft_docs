@@ -7,7 +7,7 @@ description: >-
 ## Anillo Esqueleto
 
 <figure>
-    <img src="/.gitbook\assets\img\item\accessories\ring\skull_ring.png" alt="">
+    <img src="/.gitbook/assets/img/item/accessories/ring/skull_ring.png" alt="">
     <figcaption>Anillo Esqueleto</figcaption>
 </figure>
 
