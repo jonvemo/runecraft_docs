@@ -11,6 +11,9 @@ coverY: 0
 
 ![Crown](.gitbook/assets/img/item/accessories/crown/miner_crown.png)
 
+<figure><img src=".gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
 
 ### Forma de obtención
 * Se puede obtener de los [Cofre de Madera](.gitbook/assets/category/extra/loot/chest/wood_chest/wood_chest.md) en [Mina](.gitbook/assets/category/location/mine/mine.md)
