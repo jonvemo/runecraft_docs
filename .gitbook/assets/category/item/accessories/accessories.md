@@ -4,7 +4,11 @@
 
 Lorem 
 
-![Roblón](/.gitbook\assets\img\item\accessories\amulet\miner_amulet.png)
+<figure>
+    <img src="#" alt="none">
+    <figcaption>Roblón</figcaption>
+</figure>
+
 
 ---
 

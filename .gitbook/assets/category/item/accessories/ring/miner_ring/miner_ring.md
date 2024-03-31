@@ -9,7 +9,10 @@ coverY: 0
 
 ## Anillo del Minero
 
-![Anillo](/.gitbook\assets\img\item\accessories\ring\miner_ring.png)
+<figure>
+    <img src="/.gitbook\assets\img\item\accessories\ring\miner_ring.png" alt="">
+    <figcaption>Anillo del Minero</figcaption>
+</figure>
 
 ### Forma de obtención
 * Se puede obtener de los [Cofre de Madera](.gitbook/assets/category/extra/loot/chest/wood_chest/wood_chest.md) en [Mina](.gitbook/assets/category/location/mine/mine.md)

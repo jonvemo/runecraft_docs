@@ -7,7 +7,10 @@ coverY: 0
 ---
 ## Amuleto de Minero
 
-![Amulet](/.gitbook/assets/img/item/accessories/amulet/miner_amulet.png)
+<figure>
+    <img src="/.gitbook/assets/img/item/accessories/amulet/miner_amulet.png" alt="">
+    <figcaption>Amuleto del Minero</figcaption>
+</figure>
 
 ### Forma de obtención
 * Se puede obtener de los [Cofre de Madera](.gitbook/assets/category/extra/loot/chest/wood_chest/wood_chest.md) en [Mina](.gitbook/assets/category/location/mine/mine.md)

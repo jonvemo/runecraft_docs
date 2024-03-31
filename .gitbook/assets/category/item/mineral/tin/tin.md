@@ -1,6 +1,8 @@
 ---
 description: Aspecto del Bloque de Estaño
-cover: >-
-    /.gitbook\assets\img\item\mineral\block\tin.png
-coverY: 0
 ---
+
+<figure>
+    <img src="/.gitbook\assets\img\item\mineral\block\tin.png" alt="">
+    <figcaption>Bloque de Estaño</figcaption>
+</figure>

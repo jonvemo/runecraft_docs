@@ -2,21 +2,17 @@
 description: >-
   La Corona del Minero es un símbolo majestuoso y venerado entre las comunidades mineras. A diferencia del Amuleto del Minero, la Corona es un artefacto ceremonial, diseñado para honrar y reconocer los logros excepcionales en el ámbito de la minería
 cover: >-
-    .gitbook/assets/img/item/accessories/crown/miner_crown.png)
+    /.gitbook/assets/img/item/accessories/crown/miner_crown.png)
 coverY: 0
 ---
 [ TODO: Insert foto de Mina en Cover]: #
 
 ## Corona del Minero
 
-![Crown](.gitbook/assets/img/item/accessories/crown/miner_crown.png)
-
-fig1
-<figure><img src=".gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
-fig2
-<figure><img src="/.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
-fig3
-<figure><img src="../.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="/.gitbook/assets/img/item/accessories/crown/miner_crown.png" alt="">
+    <figcaption>Corona del Minero</figcaption>
+</figure>
 
 ### Forma de obtención
 * Se puede obtener de los [Cofre de Madera](.gitbook/assets/category/extra/loot/chest/wood_chest/wood_chest.md) en [Mina](.gitbook/assets/category/location/mine/mine.md)

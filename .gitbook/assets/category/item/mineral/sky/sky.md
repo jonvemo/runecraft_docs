@@ -1,6 +1,8 @@
 ---
-description: Aspecto del Bloque de Estaño
-cover: >-
-    .gitbook\assets\img\item\mineral\block\sky.png
-coverY: 0
+description: Aspecto del Bloque de Cielo
 ---
+
+<figure>
+    <img src="/.gitbook\assets\img\item\mineral\block\sky.png" alt="">
+    <figcaption>Bloque de Cielo</figcaption>
+</figure>

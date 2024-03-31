@@ -2,7 +2,10 @@
 
 ### Tierra
 
-![Overworld](/.gitbook\assets\img\dimension\overworld.png)
+<figure>
+    <img src="/.gitbook\assets\img\dimension\overworld.png" alt="">
+    <figcaption>Overworld</figcaption>
+</figure>
 
 El Overworld es la dimensión principal en Minecraft, conocida por su diversidad de biomas y su papel como el lugar donde los jugadores pasan la mayor parte de su tiempo. Algunas características únicas del Overworld incluyen:
 
@@ -30,7 +33,10 @@ El Overworld es la dimensión principal en Minecraft, conocida por su diversidad
 
 ### Infierno
 
-![Nether](/.gitbook\assets\img\dimension\nether.png)
+<figure>
+    <img src="/.gitbook\assets\img\dimension\nether.png" alt="">
+    <figcaption>Nether</figcaption>
+</figure>
 
 El Nether es una dimensión que contiene océanos de lava y se considera el inframundo del juego. Al entrar a través de un portal al Nether desde el Overworld, los jugadores se sumergen en este entorno hostil. Algunas características únicas del Nether incluyen:
 
@@ -56,7 +62,10 @@ El Nether es una dimensión que contiene océanos de lava y se considera el infr
 
 ### El Fin
 
-![End](/.gitbook\assets\img\dimension\end.png)
+<figure>
+    <img src="/.gitbook\assets\img\dimension\end.png" alt="">
+    <figcaption>End</figcaption>
+</figure>
 
 El End es una dimensión espacial con islas flotantes de piedra de End, accesibles mediante un portal del End en una fortaleza. Es considerado el opuesto del Nether. Aunque es un entorno estéril, es el único lugar donde se pueden obtener algunos de los objetos más únicos y útiles del juego, como el elytra o las cajas de shulker. Algunas características únicas del End incluyen:
 
@@ -68,7 +77,10 @@ El End es una dimensión espacial con islas flotantes de piedra de End, accesibl
 
 ### El cielo
 
-![Sky](/.gitbook\assets\img\dimension\sky.png)
+<figure>
+    <img src="/.gitbook\assets\img\dimension\sky.png" alt="">
+    <figcaption>Sky</figcaption>
+</figure>
 
 El cielo o aether como les guste llamar es una dimension especial con varios nuevos biomas, una nueva dimensión en forma de islas flotantes.
 
@@ -80,4 +92,4 @@ Una nueva estructura: El Pueblo Celestial, una versión flotante de un pueblo no
 
 Dos nuevos avances: Uno otorgado al llegar a la dimensión y otro al explorar los 5 nuevos biomas.
 
-Un nuevo mineral: [Mineral del cielo](/.gitbook\assets\category\item\mineral\sky\sky.md)
+Un nuevo mineral: [Mineral del cielo](.gitbook\assets\category\item\mineral\sky\sky.md)
