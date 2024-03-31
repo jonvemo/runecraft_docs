@@ -47,5 +47,8 @@
     * [Loots](.gitbook/assets/category/extra/loot/loot.md)
       * [Cofres](.gitbook/assets/category/extra/loot/chest/chest.md)
         * [Cofre de Madera](.gitbook/assets/category/extra/loot/chest/wood_chest.md)
+      * [Tabla de Loots](.gitbook/assets/category/extra/loot/loot_table/loot_table.md)
+        * [Loot de Mina](.gitbook/assets/category/extra/loot/loot_table/loot_mine/loot_mine.md)
+          * [Loot de Mina Única Estrella](.gitbook/assets/category/extra/loot/loot_table/loot_mine/loot_mine_one_star.md)
     * [Muebles](.gitbook/assets/category/extra/furniture/furniture.md)
     * [Bloques Decorativos](.gitbook/assets/category/extra/decorative/decorative.md)
