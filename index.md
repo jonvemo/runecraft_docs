@@ -4,12 +4,10 @@
 
 ¡Bienvenido a la Wiki de la Comunidad Runecraft, una documentación del Servidor mantenida por los administradores!
 
-¿Formato de página incorrecto?\
+¿Formato de página incorrecto?/
 Puedes ayudar con el marcado de la wiki.
 
 ¿Quieres ponerte en contacto con nosotros o estar al día de las novedades de nuestra wiki? ¿Quieres obtener más información o hablar con nuestro equipo de administración de la wiki? ¡Únete a nosotros en [discord ](https://discord.runecraft.me)aquí!
-
-### Pagina en español
 
 ## Categorias
 
@@ -21,7 +19,7 @@ Si estás buscando información específica sobre cómo mejorar tus habilidades,
 
 ¡Explora y descubre todo lo que necesitas saber para convertirte en un experto en el juego!
 
-[mecanicas](mecanicas/ "mention")
+[Mecánicas](/.gitbook/assets/category/mechanical/mechanical.md)
 {% endtab %}
 
 {% tab title="Items" %}
@@ -29,7 +27,7 @@ Bienvenido a la sección de Items de la Wiki de la Comunidad Runecraft. Aquí en
 
 #### Tipos de Items
 
-[items](items/ "mention")
+[Items](/.gitbook/assets/category/item/item.md)
 
 Descubre cómo crear tus propios objetos a través de la artesanía y aprovecha al máximo tus recursos.
 
@@ -37,19 +35,17 @@ Descubre cómo crear tus propios objetos a través de la artesanía y aprovecha 
 
 Sumérgete en el mundo de los calabozos y aprende sobre los tesoros y desafíos que te esperan en las profundidades.
 
-[accesorios](items/accesorios/ "mention")
+[Accesorios](/.gitbook/assets/category/item/accessories/accessories.md)
 
 Encuentra los complementos perfectos para mejorar tus habilidades y protegerte en la batalla.
 
-[llaves](items/llaves/ "mention")
+[LLaves](/.gitbook/assets/category/item/keys/keys.md)
 
 Desbloquea secretos y accede a áreas restringidas con información detallada sobre llaves y su uso.
 
-[recursos](items/recursos/ "mention")
+[Minerales](/.gitbook/assets/category/item/mineral/mineral.md)
 
 Aprende sobre los materiales y elementos esenciales que te ayudarán a forjar tu camino hacia la grandeza.
-
-[vanilla](items/genericos/vanilla/ "mention")
 
 Explora la amplia gama de objetos estándar que el juego tiene para ofrecer. Estos items forman la base de tu aventura en el mundo de Runecraft y proporcionan las herramientas esenciales para tu viaje.
 
@@ -63,6 +59,6 @@ Sumérgete en la riqueza de información sobre items que hemos preparado para ti
 {% tab title="Guias" %}
 En esta seccion encontraras guias para poder iniciar tu aventura si tienes algun amigo que tenga una guia util escribenos en un ticket y la agregaremos despues de pasar por verificaciones ;)
 
-[guias-para-aprender-a-jugar](readme/guias-para-aprender-a-jugar/ "mention")
+[Guías](/.gitbook/assets/category/guide/guide.md)
 {% endtab %}
 {% endtabs %}
