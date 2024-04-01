@@ -15,4 +15,4 @@ Requiere [Llave de Madera](/.gitbook/assets/category/item/keys/wood_key.md)
 
 * Se encuentra en [Mina](/.gitbook/assets/category/location/mine/mine.md)
 
-Puedes ver el Loot en: [Loot de Mina](.gitbook/assets/category/extra/loot/loot_table/loot_mine/loot_mine.md)
+Puedes ver el Loot en: [Loot de Mina](/.gitbook/assets/category/extra/loot/loot_table/loot_mine/loot_mine.md)

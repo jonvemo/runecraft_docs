@@ -191,7 +191,7 @@ Puedes usar el comando
 
 **Outsider**: Personas que NO pertenecen a la ciudad.
 
-**Ally**: Personas dentro de una [nación](.gitbook/assets/category/guide/towny/details/nations.md).
+**Ally**: Personas dentro de una [nación](/.gitbook/assets/category/guide/towny/details/nations.md).
 
 **Friends**: Esta categoría se usa POR PERSONA y sirve para agregar personas a tus plots. 
 
