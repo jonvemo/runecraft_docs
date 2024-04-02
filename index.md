@@ -3,7 +3,7 @@
 ## Bienvenido a la Wiki de la Comunidad Runecraft
 
 <div>
-<p id="test">Hola</p>
+<p style="background-color:green; font-size: 4rem; color: yellow; padding:5 rem;">Hola</p>
 </div>
 
 ¡Bienvenido a la Wiki de la Comunidad Runecraft, una documentación del Servidor mantenida por los administradores!
