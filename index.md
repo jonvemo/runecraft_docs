@@ -2,9 +2,11 @@
 
 ## Bienvenido a la Wiki de la Comunidad Runecraft
 
-<div>
-<p style="background-color:green; font-size: 4rem; color: yellow; padding:5 rem;">Hola</p>
-</div>
+<p style="background-color:green;">p verder</p>
+<p style="background-color:green; font-size: 4rem; color: yellow; padding:5 rem;">ppp</p>
+<mark style="background-color:green;">mark verder</mark>
+<mark style="background-color:green; font-size: 4rem; color: yellow; padding:5 rem;">markkk</mark>
+
 
 ¡Bienvenido a la Wiki de la Comunidad Runecraft, una documentación del Servidor mantenida por los administradores!
 
