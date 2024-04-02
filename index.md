@@ -2,6 +2,10 @@
 
 ## Bienvenido a la Wiki de la Comunidad Runecraft
 
+<div id="test">
+Hola
+</div>
+
 ¡Bienvenido a la Wiki de la Comunidad Runecraft, una documentación del Servidor mantenida por los administradores!
 
 ¿Formato de página incorrecto?/
