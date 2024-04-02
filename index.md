@@ -2,8 +2,8 @@
 
 ## Bienvenido a la Wiki de la Comunidad Runecraft
 
-<div id="test">
-Hola
+<div>
+<p id="test">Hola</p>
 </div>
 
 ¡Bienvenido a la Wiki de la Comunidad Runecraft, una documentación del Servidor mantenida por los administradores!
